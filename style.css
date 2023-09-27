@@ -1,0 +1,11 @@
+
+h1 {
+    color: blueviolet;
+}
+p {
+    background-color: brown;
+}
+body {
+    background-image: url('background.jpeg'); /* Replace 'background.jpg' with your image file */
+    background-size: cover; /* This will make sure the image covers the entire viewport */
+  }
