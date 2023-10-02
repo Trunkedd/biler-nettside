@@ -1,11 +1,26 @@
+html, body {
+    height: 100%;
+}
+
 
 h1 {
-    color: blueviolet;
+    color: rgb(255, 243, 80);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 38%;
+    text-align: center;
+    background-color: rgb(104, 0, 0);
+    align-self: center;
+
 }
-p {
-    background-color: brown;
+p{
+    text-align: center;
+    justify-self: center;
+    color: rgb(91, 91, 91);
+
 }
 body {
-    background-image: url('background.jpeg'); /* Replace 'background.jpg' with your image file */
+    background-image: url('bilder/background.jpeg'); /* Replace 'background.jpg' with your image file */
     background-size: cover; /* This will make sure the image covers the entire viewport */
-  }
+    display: flex;
+    flex-direction: column;
+}
