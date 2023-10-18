@@ -19,8 +19,8 @@ p{
 
 }
 body {
-    background-image: url('bilder/background.jpeg'); /* Replace 'background.jpg' with your image file */
-    background-size: cover; /* This will make sure the image covers the entire viewport */
+    background-image: url('bilder/background.jpeg'); 
+    background-size: cover; 
     display: flex;
     flex-direction: column;
 }

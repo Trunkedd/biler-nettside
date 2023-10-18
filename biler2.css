@@ -1,0 +1,28 @@
+html,body{
+margin: 0%;
+background-image: url(bilder/background2.jpg);
+background-size: cover;
+}
+h1{
+    color:darkgrey;  
+    background-color: black;
+    display: flex;
+    justify-content: center;
+   margin: 0%;
+}
+p{
+    width: 1000px;
+    background-color: rgb(0, 0, 0);
+    color: darkgrey;
+    padding: 10px;
+    margin: 0%;
+    
+}
+iframe{
+    margin: 10px;
+    
+}
+div{
+    display:flex;
+    justify-content: flex-end;
+}
