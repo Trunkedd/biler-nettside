@@ -4,11 +4,11 @@ html, body {
 
 
 h1 {
-    color: rgb(255, 243, 80);
+    color: #c1c13c;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     width: 38%;
     text-align: center;
-    background-color: rgb(104, 0, 0);
+    background-color: darkred;
     align-self: center;
 
 }
